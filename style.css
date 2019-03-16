@@ -1,0 +1,46 @@
+/*
+Stylesheet #1
+=============
+Each of these CSS elements is associated with an HTML Element, Class, or ID.
+Flip between this CSS file and the HTML to see how things line up.
+Experiment with deleting lines of code from the CSS to see how it affects the web page when you refresh in the browser.
+*/
+
+body {
+    /* Box-model */
+    padding: 0;
+  
+    /* Positioning */
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  
+    /* Typography */
+    font-size: 18px;
+    line-height: 150%;
+    color: #333;
+  
+    /* Visual */
+    background: #d8d6ee;
+  }
+  
+  header {
+    background: #d21034;
+  }
+  
+  h1 {
+    /* Box-model */
+    padding: 20px 0;
+  
+    /* Positioning */
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 28px;
+  
+    /* Typography */
+    background: black;
+    color: #d8d6ee;
+    text-align: center;
+  
+    /* Visual */
+    background: #333;
+  }
